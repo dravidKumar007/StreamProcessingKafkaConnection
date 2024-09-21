@@ -1,0 +1,9 @@
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@4e67b68c]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@10f3453b]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@4e67b68c]
+2024.09.15 17:12:48 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.[0m
+2024.09.15 17:12:54 INFO  no build target found for /home/dravid/spring_boot/kafka/kafka/src/main/java/com/bigdata/kafka/KafkaApplication.java. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.09.15 17:13:08 INFO  time: code lens generation in 6.89s[0m
+2024.09.15 17:15:12 INFO  no build target found for /home/dravid/spring_boot/kafka/kafka/src/main/java/com/bigdata/kafka/KafkaApplication.java. Using presentation compiler with project's scala-library version: 3.3.3[0m
